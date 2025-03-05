@@ -2,8 +2,7 @@
 # Hola , soy Elizabeth Sánchez Ortiz 👋
 ### full-stack web & engineer
 
-Soy ingeniera en sistemas profesional desde hace más de dos años.
-Actualmente me desarrollo como programador full-stack web creando proyectos para el sector público en México
+Soy ingeniera en sistemas con más de tres años de experiencia en el sector tecnológico. Actualmente me desempeño en México como especialista en soporte técnico, brindando mantenimiento y optimización de infraestructura de impresión y equipos de cómputo. Tengo experiencia en diagnóstico y resolución de fallas en hardware y software, gestión de redes y configuración de sistemas operativos. Además, he trabajado en el desarrollo de sistemas, abordando análisis, diseño e implementación de soluciones tecnológicas para entornos empresariales.
 
 ## Tecnologías:
 [![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=white&labelColor=#733499)]()
@@ -25,12 +24,7 @@ Y alguna más...
 <a href="https://mateomoralesp.github.io/Angular-base/">Angular</a>
 <br>
 <a href="https://mateomoralesp.github.io/subneteo/">Subneteo de red</a>
-## Encuéntrame en:
 
-[![Facebook](https://img.shields.io/badge/Facebook-@Mateo-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/profile.php?id=100052531386969)
-</br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mateo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mateo-morales-p/)
 
 
 
